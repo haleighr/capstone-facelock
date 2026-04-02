@@ -1,0 +1,14 @@
+- Low Security
+Fewer poses (3 instead of 6)
+Lower threshold (0.75)
+o blink required
+Faster, easier
+Level 2 — Medium (current default)
+Full 6 poses
+Moderate threshold (0.85)
+Blink required
+Level 3 — High Security
+Full 6 poses
+Stricter threshold (0.92)
+Blink required
+(Optional upgrade later: multiple captures per pose)
